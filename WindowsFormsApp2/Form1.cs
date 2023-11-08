@@ -16,7 +16,7 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
-
+        //hgfdshjfs
         private void button1_Click(object sender, EventArgs e)
         {
             Double x, y, r;
